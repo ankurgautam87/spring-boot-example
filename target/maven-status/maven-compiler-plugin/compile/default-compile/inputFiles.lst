@@ -1,0 +1,16 @@
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/config/DatasourceConfig.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/domain/RandomCity.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/service/GenericService.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/service/impl/GenericServiceImpl.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/config/ResourceServerConfig.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/service/impl/AppUserDetailsService.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/config/SecurityConfig.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/controller/ResourceController.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/SpringbootJwtApplication.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/config/AdditionalWebConfig.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/repository/UserRepository.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/repository/RandomCityRepository.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/domain/Role.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/config/AuthorizationServerConfig.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/domain/User.java
+/tmp/tmpqrb3z19r/spring-boot-example/src/main/java/com/nouhoun/springboot/jwt/integration/repository/RoleRepository.java
