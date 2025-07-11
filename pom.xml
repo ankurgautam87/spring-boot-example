@@ -137,7 +137,7 @@
 			<plugin>
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok-maven-plugin</artifactId>
-                <version>${lombok.version}</version>
+                <version>1.18.26</version>
                 <executions>
                     <execution>
                         <phase>generate-sources</phase>
