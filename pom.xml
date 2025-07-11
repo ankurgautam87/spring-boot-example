@@ -145,9 +145,9 @@
 	</build>
 	<pluginRepositories>
 		<pluginRepository>
-			<id>dubborepo</id>
-			<name>dubborepo</name>
-			<url>https://maven.fabric8.io/repository</url>
+			<id>fabric8-maven-repository</id>
+			<name>Fabric8 Maven Repository</name>
+			<url>https://repository.fabric8.io/nexus/content/groups/public</url>
 			<releases>
 				<enabled>true</enabled>
 			</releases>
