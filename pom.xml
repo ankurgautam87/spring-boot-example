@@ -103,7 +103,7 @@
 	         <plugin>
 		        <groupId>io.fabric8</groupId>
 		        <artifactId>docker-maven-plugin</artifactId>
-		        <version>0.41.0</version>
+		        <version>0.43.0</version>
 		        <extensions>true</extensions>
 		        
  		        <configuration>
@@ -155,18 +155,5 @@
             </plugin>
 		</plugins>
 	</build>
-	<pluginRepositories>
-		<pluginRepository>
-			<id>fabric8-maven-repository</id>
-			<name>Fabric8 Maven Repository</name>
-			<url>https://repository.fabric8.io/nexus/content/groups/public</url>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-			<snapshots>
-				<enabled>false</enabled>
-			</snapshots>
-		</pluginRepository>
-	</pluginRepositories>
 
 </project>
